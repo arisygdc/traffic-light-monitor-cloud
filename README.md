@@ -1,4 +1,4 @@
-# Traffic Light Monitoring Deploymen
+# Traffic Light Monitoring Deployment
 
 Script and configuration for Monitor the Traffic Light is part of capstone project B21-CAP0442 Team.
 
